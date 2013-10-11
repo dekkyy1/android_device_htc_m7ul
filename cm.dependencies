@@ -1,14 +1,26 @@
 [
-  {
+  { 
+    "project": "CyanogenMod",
     "repository": "android_device_htc_msm8960-common",
     "target_path": "device/htc/msm8960-common"
+    "branch": "cm-10.2"
   },
   {
+    "project": "CyanogenMod",
     "repository": "android_device_htc_m7-common",
     "target_path": "device/htc/m7-common"
+    "branch": "cm-10.2"
   },
   {
+    "project": "CyanogenMod",
     "repository": "android_kernel_htc_m7",
     "target_path": "kernel/htc/m7"
+    "branch": "cm-10.2"
+  }
+  {
+  "project": "TheMuppets",
+    "repository": " proprietary_vendor_htc",
+    "target_path": "vendor/htc",
+    "branch": "cm-10.2"
   }
 ]
